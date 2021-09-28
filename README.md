@@ -5,3 +5,6 @@
  
  
 [Clique aqui para ver o projeto ao vivo!](https://brunahirano.github.io/ImersaoJSCubos/)
+
+![](https://github.com/brunahirano/ImersaoJSCubos/blob/main/imagemreadme.png)
+
